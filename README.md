@@ -11,6 +11,12 @@
 
 ✅ 计算机网络
 
+✅ :question: ​数据库 
+
+✅ :question: 软件工程
+
+✅ :question: 信息安全
+
 :moon: 其余待更新
 
 
