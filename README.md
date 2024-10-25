@@ -1,4 +1,4 @@
-## 国考金融监管计算机类学习笔记 :tada:
+## 国考金融监管计算机类 :tada:
 
 ### 历年考试情况
 
@@ -50,11 +50,11 @@
 
 ### 计算机网络
 
-【10分钟速通计算机网络 每个开发者都具备的计算机常识】 https://www.bilibili.com/video/BV1jx421X7zH/?share_source=copy_web&vd_source=480aa1ab6f679a8e2419597450b2f8b8
+:star: :star: :star: 【10分钟速通计算机网络 每个开发者都具备的计算机常识】 https://www.bilibili.com/video/BV1jx421X7zH/?share_source=copy_web&vd_source=480aa1ab6f679a8e2419597450b2f8b8
 
 <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=1752410818&bvid=BV1jx421X7zH&cid=1482489574&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"></iframe>
 
-【王道计算机考研 计算机网络】 https://www.bilibili.com/video/BV19E411D78Q/?share_source=copy_web&vd_source=480aa1ab6f679a8e2419597450b2f8b8
+:star: :star: :star: 【王道计算机考研 计算机网络】 https://www.bilibili.com/video/BV19E411D78Q/?share_source=copy_web&vd_source=480aa1ab6f679a8e2419597450b2f8b8
 
 <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=70228743&bvid=BV19E411D78Q&cid=1475633911&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"></iframe>
 
@@ -62,6 +62,6 @@
 
 ## 关于
 
-
+我希望我的笔记不只是我一个人的，更希望每个人都能参与补充和改进。
 
 联系邮箱：ximing020714@gmail.com
