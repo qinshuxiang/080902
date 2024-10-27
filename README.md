@@ -101,7 +101,7 @@ git checkout -b add-notes  # 创建并切换到新分支
 # 提交更改
 git add .
 git commit -m "Added notes for the project"
-git push origin '分支名称'
+git push origin add-notes
 ```
 
 在你的 GitHub 仓库页面上，会看到一个提示，询问你是否要为 `add-notes` 分支发起 Pull Request。点击 **"Compare & pull request"**。在 PR 页面，填写 PR 标题和描述。
