@@ -53,6 +53,14 @@
 
 
 
+### 操作系统
+
+:star: :star: :star:【王道计算机考研 操作系统】 https://www.bilibili.com/video/BV1YE411D7nH/?p=19&share_source=copy_web&vd_source=480aa1ab6f679a8e2419597450b2f8b8
+
+---
+
+
+
 ## 笔记完成情况
 
 :question: 待补充，✅ 基本完成
