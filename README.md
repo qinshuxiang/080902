@@ -61,6 +61,20 @@
 
 
 
+### 数据结构
+
+【王道计算机考研 数据结构】 https://www.bilibili.com/video/BV1b7411N798/?share_source=copy_web&vd_source=480aa1ab6f679a8e2419597450b2f8b8
+
+---
+
+
+
+### 计算机组成原理
+
+【王道计算机考研 计算机组成原理】 https://www.bilibili.com/video/BV1ps4y1d73V/?share_source=copy_web&vd_source=480aa1ab6f679a8e2419597450b2f8b8
+
+
+
 ## 笔记完成情况
 
 :question: 待补充，✅ 基本完成
@@ -79,7 +93,7 @@
 
 ✅  数据结构 少量考察
 
-:question: 操作系统 少量考察
+✅  :question: 操作系统 少量考察
 
 :question: 计算机组成原理 少量考察
 
