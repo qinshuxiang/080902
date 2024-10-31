@@ -39,19 +39,7 @@
 - 自我介绍 x1。自我介绍为第一题，是唯一一道可以去提前准备的题目，可以充分体现个人优点，加深考官对考生的印象。
 - 结构化 x2
 - 专业面 x2，**难度较大，除过基本理论需要结合实务予以作答，高度，态度需要体现，此部分决定是否为高分**。
-- 英语 x1，
-
-
-
-## 相关推荐视频
-
-### 计算机网络
-
-:star: :star: :star: 【10分钟速通计算机网络 每个开发者都具备的计算机常识】 https://www.bilibili.com/video/BV1jx421X7zH/?share_source=copy_web&vd_source=480aa1ab6f679a8e2419597450b2f8b8
-
----
-
-:star: :star: :star: 【王道计算机考研 计算机网络】 https://www.bilibili.com/video/BV19E411D78Q/?share_source=copy_web&vd_source=480aa1ab6f679a8e2419597450b2f8b8
+- 英语 x1
 
 
 
